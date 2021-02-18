@@ -1,4 +1,4 @@
-# Learn Terraform data sources - VPC
+# Learn Terraform data sources
 
 Learn how Terraform data sources help you import data into your Terraform configuration.
 
